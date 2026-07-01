@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-COBIT%202019-blue)
-![Framework](https://img.shields.io/badge/Framework-CIS%20Controls-v8-orange)
+![Framework](https://img.shields.io/badge/Framework-CIS%20Controls-orange)
 ![Framework](https://img.shields.io/badge/Framework-PIPEDA-success)
 
 ---
