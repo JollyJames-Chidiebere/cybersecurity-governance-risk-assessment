@@ -11,7 +11,7 @@
 
 ## Overview
 
-This project demonstrates a comprehensive cybersecurity risk assessment conducted for **Toolbox International Limited**, a fictional multinational artisan marketplace operating across Africa.
+This project demonstrates a comprehensive cybersecurity risk assessment conducted for **Toolbox International Limited**, a multinational artisan organization operating across Africa.
 
 The assessment evaluates the organization's information assets, identifies cybersecurity threats and vulnerabilities, prioritizes business risks, assesses governance maturity using **COBIT 2019**, recommends security improvements based on the **CIS Critical Security Controls v8**, and aligns privacy practices with **PIPEDA**.
 
